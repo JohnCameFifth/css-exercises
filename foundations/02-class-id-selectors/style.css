@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightpink;
+    font-family: 'Veranda', 'DejaVu Sans', sans-serif;
+}
+
+#numTwo {
+    color:blue;
+    font-size: 36px;
+}
+
+#numFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.coolerOdd {
+    font-size: 24px;
+}
